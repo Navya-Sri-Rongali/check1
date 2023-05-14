@@ -1,0 +1,11 @@
+.spacing_in_bar{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.username_tag{
+    margin-left: 650px;
+}
+.assessment_tag{
+    margin-left: 550px;
+}
